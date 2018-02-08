@@ -1,2 +1,2 @@
 # ds
-designing for the prototype of digitstandard
+Designing for the prototype of digitstandard
